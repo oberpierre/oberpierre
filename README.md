@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I'm Pierre 👋
+
+I'm a passionate Full Stack Developer currently residing in the vibrant city of Singapore. I'm eager to continuously grow and learn new technologies and skills to apply them solving the next challenge ahead. Hoping to contribute more to open source projects in the future since they are simply awesome, delivering high quality tools, frameworks, products and much more to the community!
+
+<p align="center">
+  Some of the technologies I work with regularly:<br/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,react,java,python,nodejs" />
+</p>
 
 <!--
 **oberpierre/oberpierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
