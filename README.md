@@ -1,9 +1,9 @@
-### Hi I'm Pierre 👋
+### Hello! I'm Pierre 👋
 
-I'm a passionate Full Stack Developer currently residing in the vibrant city of Singapore. I'm eager to continuously grow and learn new technologies and skills to apply them solving the next challenge ahead. Hoping to contribute more to open source projects in the future since they are simply awesome, delivering high quality tools, frameworks, products and much more to the community!
+As a passionate Full Stack Developer based in vibrant Singapore, I'm continually eager to learn new technologies and apply my evolving skill set to tackle upcoming challenges. In the future, I aim to contribute more to open source projects, which provide our community with invaluable tools, frameworks, and products of outstanding quality.
 
 <p align="center">
-  Some of the technologies I work with regularly:<br/><br/>
+  The technologies I frequently work with include:<br/><br/>
   <img src="https://skillicons.dev/icons?i=ts,react,java,python,nodejs" />
 </p>
 
